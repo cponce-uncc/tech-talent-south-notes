@@ -1,0 +1,1 @@
+This repository consists of notes taken during the YTAC Tech Talent South Curriculum.
